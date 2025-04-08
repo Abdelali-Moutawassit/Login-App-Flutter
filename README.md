@@ -79,4 +79,3 @@ Développé avec ❤️ par **[MOUTAWASSIT ABDELALI]**
 |----------|-------------|
 | ![Login](assets/screenshots/login.png) | ![Signup](assets/screenshots/signup.png) |
 
-> ✨ Tu peux ajouter des GIFs de démonstration avec [LiceCap](https://www.cockos.com/licecap/) ou [ScreenToGif](https://www
